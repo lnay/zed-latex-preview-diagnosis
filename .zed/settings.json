@@ -1,0 +1,10 @@
+{
+  "lsp": {
+    "texlab": {
+      "binary": {
+        "arguments": ["-vvv", "--log-file", "texlab.log"]
+      },
+      "settings": {}
+    }
+  }
+}
