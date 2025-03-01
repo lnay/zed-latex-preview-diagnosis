@@ -17,3 +17,12 @@ These are the instructions for providing information related to any issues with 
 - did the PDF viewer open on its own after saving `main.tex`?
 - how does the behaviour differ from what is expected?
 - provide the contents of the log file `texlab.log`
+
+## General info:
+- operating system:
+  - MacOS
+  - Linux distro (and which desktop environment)
+  - ~~Windows~~ (this feature doesn't explicitly support Windows)
+- PDF viewer and its version
+- [optional: inverse search issue on Linux only] what is the command to open Zed from the terminal?
+
